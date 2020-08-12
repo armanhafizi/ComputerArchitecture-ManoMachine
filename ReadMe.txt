@@ -1,0 +1,1 @@
+This is the binary implementaion of Mano Machine. This computer gets the instructions in binary, does what is necessary and applies the changes to the output file. Feel free to contact me for more information.
